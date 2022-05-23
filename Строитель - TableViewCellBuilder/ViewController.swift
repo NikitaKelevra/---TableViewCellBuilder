@@ -16,15 +16,13 @@ class ViewController: UIViewController {
        
         tableView.delegate = self
         tableView.dataSource = self
-        
     }
-
 }
 
 
 // MARK: -
 
-//Здест мы должны сконфигурировать ячейки -
+//Здест мы должны сконфигурировать ячейки
 private extension ViewController {
     //Этой функцией регестрируем все ячейки - инаяче tableView не увидит этих ячеек
     func registerCells() {

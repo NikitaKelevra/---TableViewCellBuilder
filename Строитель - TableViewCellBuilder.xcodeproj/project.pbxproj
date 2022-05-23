@@ -70,6 +70,8 @@
 		6830D354283AB0CF003604A4 /* Строитель - TableViewCellBuilder */ = {
 			isa = PBXGroup;
 			children = (
+				6830D35B283AB0CF003604A4 /* Main.storyboard */,
+				6830D359283AB0CF003604A4 /* ViewController.swift */,
 				6830D369283AB0FC003604A4 /* CellsBuilder */,
 				6830D355283AB0CF003604A4 /* AppDelegate.swift */,
 				6830D357283AB0CF003604A4 /* SceneDelegate.swift */,
@@ -83,8 +85,6 @@
 		6830D369283AB0FC003604A4 /* CellsBuilder */ = {
 			isa = PBXGroup;
 			children = (
-				6830D35B283AB0CF003604A4 /* Main.storyboard */,
-				6830D359283AB0CF003604A4 /* ViewController.swift */,
 				6830D36A283AB129003604A4 /* CellsBuilder.swift */,
 				6830D36C283AB42E003604A4 /* Cells */,
 			);
